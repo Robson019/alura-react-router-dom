@@ -1,3 +1,11 @@
+# Project Requirements
+- npm: `npm i` (to install node dependencies);
+- react-router-dom:
+  - `npm init @eslint/config` (to config react-router-dom components);
+  - `npx eslint ./src --fix` (to solve project problems);
+  - `npm i react-router-dom` (to install react-router-dom);
+  - 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
